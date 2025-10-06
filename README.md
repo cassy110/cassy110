@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Hello my name Dorcas, i am a software engeneer interested in all things python & data sciene!
+Hello my name Dorcas, i am a software engeneer interested in all things python & data science!
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
